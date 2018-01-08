@@ -150,7 +150,7 @@ toc:
 sidebar:
   # Sidebar Position, available value: left | right
   #position: right
-  position: right
+  position: hide
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
   #  - always  expand for all pages automatically
